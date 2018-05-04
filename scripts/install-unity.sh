@@ -18,8 +18,8 @@
 ################################################################################
 
 BASE_URL=http://netstorage.unity3d.com/unity
-HASH=649f48bbbf0f
-VERSION=5.4.1f1
+HASH=d4d99f31acba
+VERSION=2018.1.0f2
 
 download() {
   url="$BASE_URL/$HASH/$package"
